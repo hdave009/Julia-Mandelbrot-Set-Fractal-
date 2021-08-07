@@ -1,4 +1,4 @@
-# Julia-Mandelbrot-Set-Fractal-
+# Julia Mandelbrot Set Fractal 
 This Windows Application displays the Julia Set based on values which can be selected on the Mandelbrot Set.
 
 Windows Forms Application created using C# and Visual Studio.
